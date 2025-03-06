@@ -193,7 +193,3 @@ xray 状态: 运行
 - [telegram-bot-api](https://github.com/go-telegram-bot-api/telegram-bot-api)  
 
 
-
-## Stargazers over time
-
-[![Stargazers over time](https://starchart.cc/FranzKafkaYu/x-ui.svg)](https://starchart.cc/FranzKafkaYu/x-ui)
